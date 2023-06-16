@@ -1,5 +1,5 @@
 import "./login.scss";
 const Login = () => {
-  return <div>New</div>;
+  return <div>Login</div>;
 };
 export default Login;
